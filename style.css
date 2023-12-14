@@ -62,3 +62,7 @@ iframe{
     border: 0;
     outline: 0;
 }
+.container div{
+    font-weight: 550;
+    padding: 1rem;
+}
